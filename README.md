@@ -1,2 +1,2 @@
-# nicolas-schurmann-test
-Repository for test project for reviews by Nicolas Schurmann.
+# nicolas-schurmann-tests
+Repository for test projects for reviews by Nicolas Schurmann.
